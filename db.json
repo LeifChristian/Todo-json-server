@@ -1,16 +1,25 @@
 {
-  "posts":[
+  "todos": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "name": "be cool",
+      "info": "ok",
+      "due": "1 ",
+      "itemsNeeded": "2 ",
+      "id": 1
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "name": "make stuff",
+      "info": "do",
+      "due": "now",
+      "itemsNeeded": "yes",
+      "id": 2
+    },
+    {
+      "name": "1",
+      "info": "2",
+      "due": "3",
+      "itemsNeeded": "4",
+      "id": 3
     }
   ]
 }
